@@ -25,7 +25,8 @@ Then go to [RobotContainer](https://github.com/jdegger1/2025SpinMotorTutorial/bl
 - configureBindings
 - and creating a Joystick button
 
-When a constant is used, refer to Constants, it covers:
+### Constants
+When a constant is used, refer to [Constants](https://github.com/jdegger1/2025SpinMotorTutorial/blob/main/src/main/java/frc/robot/Constants.java), it covers:
 - Why we use constants
 - and Static variables
 
